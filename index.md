@@ -1,3 +1,9 @@
+# Pranav Chaganti's First CS193 Homework
+
+- CS193 is a lot more chill than my other classes
+- It is taught by other students
+- Feels more like a high school class than a college class
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
